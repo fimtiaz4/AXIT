@@ -320,6 +320,17 @@ nav ul li{
 	width: 100%;
 }
 
+.tab1{
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.tab3{
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+
 
 
 
